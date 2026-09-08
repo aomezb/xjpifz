@@ -1,3 +1,4 @@
 site_name: 新加坡结婚证在内地如何使用？附最新结婚证书样式
 theme:
   name: material
+  custom_dir: overrides
